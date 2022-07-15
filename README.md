@@ -7,9 +7,9 @@ Things I Want To Do:
 - [x] Make a README For My Profile,
 - [ ] Create a [Tauri](https://tauri.app "Tauri's Website") Application
 
+My Skills:
+
+Markdown Skills I Learned:
 
 ```
-
-poggers
-
-```
+- [ ] list
