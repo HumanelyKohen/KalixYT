@@ -11,21 +11,18 @@ Things I Want To Do:
 
 My Skills:
 
-Markdown Skills I Learned:
+Programming Languages
 
-```javascript
+Java, C#, JavaScript, CSS, HTML, C++, Python
 
-const{ app } = require("electron");
-const os = require("os");
+Frameworks
 
+.NET, .NET CORE, Vue.js, Node.js, Electron
 
+Game Engines
 
-app.whenReady().then(main);
+Unity, Godot, Unreal Engine
 
+Music Tools
 
-async function main() 
-{
-
-
-
-}
+FL Studio, Ableton
