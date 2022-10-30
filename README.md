@@ -13,5 +13,19 @@ My Skills:
 
 Markdown Skills I Learned:
 
-```
-- [ ] list
+```javascript
+
+const{ app } = require("electron");
+const os = require("os");
+
+
+
+app.whenReady().then(main);
+
+
+async function main() 
+{
+
+
+
+}
