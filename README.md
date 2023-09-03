@@ -5,7 +5,7 @@
 Things I Want To Do:
 
 - [x] Make a README For My Profile,
-- [x] Created an Electron Applecation
+- [x] Created an Electron Application
 - [x] Working on a project right now
 - [ ] Create a [Tauri](https://tauri.app "Tauri's Website") Application
 
